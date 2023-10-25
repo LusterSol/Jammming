@@ -11,6 +11,7 @@ function App() {
         <h2 className='subtitle'>Build your Playlist</h2>
         <div className='search-bar-container'>
           <SearchBar />
+          <p>asd</p>
         </div>
       </body>
     </div>
