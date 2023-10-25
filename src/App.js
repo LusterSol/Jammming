@@ -9,7 +9,9 @@ function App() {
       </header>
       <body>
         <h2 className='subtitle'>Build your Playlist</h2>
-        <SearchBar />
+        <div className='search-bar-container'>
+          <SearchBar />
+        </div>
       </body>
     </div>
   );
